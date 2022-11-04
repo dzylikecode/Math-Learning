@@ -1,7 +1,5 @@
 temp/
-
-
-
+.vscode/
 .configs/
 .Archive/
 .markeditor/
